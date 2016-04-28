@@ -1,2 +1,3 @@
-# ConjugateGradientMethod
-Smirnov Alexandr, Eugeny Volosenkov
+# Conjugate Gradients Method, 
+UNN, Parallel Programming Course
+authors: Alexandr Smirnov, Eugeny Volosenkov
